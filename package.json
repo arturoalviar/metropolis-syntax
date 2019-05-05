@@ -1,0 +1,15 @@
+{
+  "name": "metropolis-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark theme based off the Metropolis keycap set",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/arturoalviar/metropolis-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
